@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "last_name": "Garcia",
+            "name": "Juan",
+            "username": "Juan123",
+            "email": "Juan12345@hotmail.com",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+
+        },
+        {
+            "id": 2,
+            "last_name": "Flores",
+            "name": "Ana",
+            "username": "Ana123",
+            "email": "Ana12345@hotmail.com",
+            "password": "01cfcd4f6b8770febfb40cb906715822"
+        }
+    ]
+}
+
+
+    
